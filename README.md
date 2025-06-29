@@ -75,9 +75,12 @@ The series covers all exam objectives with clear explanations, real-world exampl
 ## 🌟 About the Author
 
 **Tharindu Kalhara**  
-Cloud & DevOps Educator | Head of Tech @ CoDeKu DevOps Academy  
-📍 Sri Lanka  
-🔗 [LinkedIn](https://www.linkedin.com/in/tharindukalhara)  
+**Software Engineer** | **Top-Rated Instructor With Over 1500+ Students in Sri Lanka**  
+**DevOps & Cloud Passionate | Blogger | YouTuber | Freelance Web Developer**  
+**Undergraduate - BICT, University of Sri Jayewardenepura**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tharinduk001/)  
+🌐 [Website](https://tharindukalhara.me/)  
 📺 [YouTube Channel](https://www.youtube.com/@kalharacodes)
 
 ---
